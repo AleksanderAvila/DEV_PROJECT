@@ -1,0 +1,25 @@
+.banner{
+    margin-top: 75px;
+    text-align: center;
+    color: red; 
+    background-color: darkslategrey;
+}
+
+ h2,
+  p,
+   span{
+       color:green;
+   }
+
+#dexterimg{
+    height: 100px;
+    width: 100px;
+}
+
+#dexter{
+    font-size: 75px;
+}
+
+.bold{
+    font-weight: 500 ;
+}
